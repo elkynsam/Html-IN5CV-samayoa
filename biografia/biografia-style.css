@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    color:rgb(223, 247, 3);
+    font-family: "Playwrite NG Modern", cursive;
+}
+
+.tablecontainer{
+    display: flex;
+    justify-content: center;
+}
+
+.anav{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    color:rgb(0, 255, 255);
+    font-family: "Playwrite NG Modern", cursive;
+}
+
+.linav{
+    padding: 50px;
+}
+
+.ulnav{
+    display: flex;
+    list-style-type: none;
+}

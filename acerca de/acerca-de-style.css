@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    color:rgb(0, 0, 0);
+    font-family: "Playwrite NG Modern", cursive;
+}
+
+caption, thead{
+    color: black; 
+    border: 5px solid black;
+}
+
+.anav{
+    color: white;
+    text-decoration: none;
+    color:rgb(241, 248, 248);
+    font-family: "Playwrite NG Modern", cursive;
+}
+
+nav{
+    background-color: black;
+}
+
+.ulnav{
+    display: flex;
+    list-style-type: none;
+}
+
+.linav{
+    padding: 20px;
+}
+
+.tablecontainer{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    margin: 40px;
+    border: 5px solid black;
+}
+
+footer{
+    font-family: "Playwrite NG Modern", cursive;
+    font-size: 20px;
+    text-align: center;
+}
